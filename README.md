@@ -1,7 +1,9 @@
 # Login UI
 
-A new Flutter project.
+Login UI Akmal Rabbih Aizar
 
+## 📱 Screenshot Hasil Run
+![alt text](https://github.com/akmalrraa/MobPro2-Elearning/blob/main/Login%20UI.png?raw=true)
 ---
 
 ## 👥 Kelompok
@@ -43,14 +45,6 @@ Tujuannya adalah untuk menampilkan desain login modern, clean, dan user-friendly
 - Latar belakang atas menampilkan **gambar daun hijau dengan efek embun**  
 - Elemen UI membulat (rounded corners) untuk kesan lembut dan ramah  
 - Desain **flat** tanpa bayangan berat, fokus pada kenyamanan visual
-
----
-
-## 📱 Screenshot Hasil Run
-
-Berikut tampilan hasil run aplikasi di emulator iPhone XR:
-
-![Login UI Screenshot](localhost_57633_(iPhone%20XR).png)
 
 ---
 
