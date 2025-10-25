@@ -52,4 +52,3 @@ Tujuannya adalah untuk menampilkan desain login modern, clean, dan user-friendly
 - **Framework:** Flutter (Dart)
 - **IDE:** Visual Studio Code
 - **Target Platform:** Android & iOS
-- **Package Tambahan:** Material Components
